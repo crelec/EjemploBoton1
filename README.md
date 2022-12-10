@@ -21,7 +21,7 @@ Son circuitos predispuestos de una manera determinada en la tarjeta que simplifi
 
 ### Resistencia pull down
 
-En esta configuración nos aseguramos que se obtiene una señal HIGH en estado de reposo, y al momento de pulsar el botón se obtiene una señal LOW.
+En esta configuración nos aseguramos que se obtiene una señal LOW en estado de reposo, y al momento de pulsar el botón se obtiene una señal HIGH.
 Para configurar este modo se escribe dentro de la función main la siguiente linea de codigo ``myBoton.mode(PullDown);``
 
 La implementación en protoboard es la siguiente:
@@ -30,7 +30,7 @@ La implementación en protoboard es la siguiente:
 
 ### Resistencia pull up
 
-En esta configuración nos aseguramos que se obtiene una señal LOW en estado de reposo, y al momento de pulsar el botón se obtiene una señal HIGH.
+En esta configuración nos aseguramos que se obtiene una señal HIGH en estado de reposo, y al momento de pulsar el botón se obtiene una señal LOW.
 Para configurar este modo se escribe dentro de la función main la siguiente linea de codigo ``myBoton.mode(PullUp);``
 
 La implementación en protoboard es la siguiente:
