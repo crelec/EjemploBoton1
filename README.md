@@ -26,7 +26,7 @@ Para configurar este modo se escribe dentro de la función main la siguiente lin
 
 La implementación en protoboard es la siguiente:
 
-![image](https://user-images.githubusercontent.com/59096507/206871599-f5ded0c2-865a-4b1c-8f4f-ecb3e33be7a1.png)
+![image](https://user-images.githubusercontent.com/59096507/209983786-20f4b567-b3e7-4a64-a209-a0860bfee769.png)
 
 ### Resistencia pull up
 
@@ -35,4 +35,4 @@ Para configurar este modo se escribe dentro de la función main la siguiente lin
 
 La implementación en protoboard es la siguiente:
 
-![image](https://user-images.githubusercontent.com/59096507/206871614-ff6adae1-b6de-4954-a24c-57bcf4f1d319.png)
+![image](https://user-images.githubusercontent.com/59096507/209984094-a768e96f-7283-488b-8c37-f8fb3648e054.png)
