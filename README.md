@@ -12,7 +12,7 @@ Si usamos otro Pin del micro en este caso uso el pin PB_3 se puede observa con f
 ## Montaje
 La tarjeta recibe señales de voltaje a través del pin configurado como entrada para ser interpretado como una señal lógica de voltaje, donde se leerá como nivel alto cuando supere un umbral de voltaje y será un nivel bajo cuando esté por debajo de este umbral. Para esto se debe colocar una resistencia de protección con el fin de disminuir la corriente que recibe el pin de entrada. 
 
-![image](https://user-images.githubusercontent.com/59096507/209982771-40c9073c-a43b-4e59-9252-ad75f84fa816.png)
+![EjemploBoton1_bb](https://user-images.githubusercontent.com/59096507/211000822-6625bb88-d202-4f35-b7b4-c8472e1ea26c.svg)
 
 ## Pull up y Pull Down
 
@@ -26,7 +26,7 @@ Para configurar este modo se escribe dentro de la función main la siguiente lin
 
 La implementación en protoboard es la siguiente:
 
-![image](https://user-images.githubusercontent.com/59096507/209983786-20f4b567-b3e7-4a64-a209-a0860bfee769.png)
+![PullDown_bb](https://user-images.githubusercontent.com/59096507/211000924-5d83032e-aded-4e65-85f2-ec7403a1aa1b.svg)
 
 ### Resistencia pull up
 
@@ -35,4 +35,5 @@ Para configurar este modo se escribe dentro de la función main la siguiente lin
 
 La implementación en protoboard es la siguiente:
 
-![image](https://user-images.githubusercontent.com/59096507/209984094-a768e96f-7283-488b-8c37-f8fb3648e054.png)
+![PullUp_bb](https://user-images.githubusercontent.com/59096507/211001047-2ac93e4b-d794-4a53-9be3-e2af188acdf1.svg)
+
