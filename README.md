@@ -12,7 +12,7 @@ Si usamos otro Pin del micro en este caso uso el pin PB_3 se puede observa con f
 ## Montaje
 La tarjeta recibe señales de voltaje a través del pin configurado como entrada para ser interpretado como una señal lógica de voltaje, donde se leerá como nivel alto cuando supere un umbral de voltaje y será un nivel bajo cuando esté por debajo de este umbral. Para esto se debe colocar una resistencia de protección con el fin de disminuir la corriente que recibe el pin de entrada. 
 
-![EjemploBoton1_bb](https://user-images.githubusercontent.com/59096507/211002542-79e5c7ba-393a-40ac-9a5a-f43d8420cf3f.svg)
+![EjemploBoton1_bb](https://user-images.githubusercontent.com/59096507/211799006-3bec183a-4769-459c-93a2-a0b24246523c.svg)
 
 ## Pull up y Pull Down
 
